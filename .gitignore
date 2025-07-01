@@ -1,0 +1,8 @@
+*.vcd
+*.vvp
+*.out
+*.log
+*.o
+*.gtkw
+*~
+*.bak
